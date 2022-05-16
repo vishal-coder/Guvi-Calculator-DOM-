@@ -24,8 +24,8 @@ body {
   justify-content: center;
   align-content: stretch;
   min-height: 60vh;
-  grid-template-columns: repeat(4, 100px);
-  grid-template-rows: minmax(110px, auto) repeat(5, 80px);
+ grid-template-columns: repeat(4, 90px);
+  grid-template-rows: minmax(100px, auto) repeat(5, 70px);
   box-sizing: border-box;
   overflow: hidden;
 
