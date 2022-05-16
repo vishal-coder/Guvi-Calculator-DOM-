@@ -77,7 +77,7 @@ body {
 
 .grid-container > button:hover {
   background-color: lightblue;
-  background-color: black;
+  background-color: #7a7a7a;
   color: #fff;
 }
 
